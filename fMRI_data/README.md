@@ -6,6 +6,6 @@ Files shared in the linked repository include:
 
  * Raw structural scan (defaced)
  * Functional scan
- * General linear model regressors)
-   * Coherence levels (raw scaled values)
+ * General linear model regressors
+   * Coherence levels (raw values, scaled values): Scaled values were used in the analysis.
    * Mouse movement (centered and scaled)
