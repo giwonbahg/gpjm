@@ -1,5 +1,4 @@
-# GPJM v2: Spatially independent GPJM
-# The model code for cross-validation
+# GPJM v3: Spatiotemporal GPJM
 
 import numpy as np
 import gpflow
